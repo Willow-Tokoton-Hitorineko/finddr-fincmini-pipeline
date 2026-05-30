@@ -30,7 +30,7 @@ FINDDR 赛事里做的 **FinCMini Agent（财小析）** 知识工程归档：
 
 本仓库为 FinDDR 参赛归档，非比赛官方交付包。
 
-→ [`docs/contribution.md`](docs/contribution.md) · [`docs/competition-context.md`](docs/competition-context.md)
+→ [个人贡献说明](docs/contribution.md) · [赛制与项目背景](docs/competition-context.md)
 
 <p align="center">🐾 ─────────── 🏆 ─────────── 🐾</p>
 
