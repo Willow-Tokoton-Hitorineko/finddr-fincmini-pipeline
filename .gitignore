@@ -1,0 +1,24 @@
+# Secrets
+.env
+.env.local
+config.py
+
+# IDE / local
+.cursor/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+
+# Competition raw data (not distributed)
+validation_raw/
+test_raw/
+annual_reports/
+
+# 参赛证明（未收录）
+docs/certificate.png
+docs/certificate.*
+
+# OS
+.DS_Store
+Thumbs.db
