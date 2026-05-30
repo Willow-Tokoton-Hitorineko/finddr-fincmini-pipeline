@@ -202,4 +202,4 @@
 - 📁 `pipeline/地区规范/` — 8 地区规范
 - 📁 `outputs/validation/` — 验证集输出样例（9 份）
 
-> 团体赛全球第 12 名见 [`competition-context.md`](competition-context.md)；本长文写于归档整理前，未逐条更新排名表述。
+> Test Set Rank #12 见 [`competition-context.md`](competition-context.md)；本长文写于归档整理前，未逐条更新排名表述。

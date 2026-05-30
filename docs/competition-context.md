@@ -14,12 +14,12 @@ FinDDR 参赛背景、名次依据与 FinCMini Agent 技术说明。个人分工
 | 队名 | **DeepSeek Your Report** |
 | 提交系统 | **FinCMini Agent**（财小析） |
 | 单位 | 上海对外经贸大学 |
-| **Test Set 最终排名** | **第 12 名**（Overall **121.92**） |
+| **Test Set Rank** | **#12**（Overall **121.92**） |
 
 ### 名次依据
 
 前三名颁发获奖证书；第 4 名及以后为 Certificate of Participation（参赛证明）。  
-本仓库所述「第 12 名」指 **Leaderboard on Test Set (Final)** 上的官方排名。
+本仓库所述 **Rank #12** 指 **Leaderboard on Test Set (Final)** 上的官方排名（非证书类型）。
 
 - 公开出处：[复旦大学计算机学院新闻稿](https://cs.fudan.edu.cn/93/0f/c24256a758543/page.htm) 附图「ICAIF FinDDR 2025 国际竞赛最终排名」
 - 本仓备份：[`leaderboard-test-set-final.png`](leaderboard-test-set-final.png)

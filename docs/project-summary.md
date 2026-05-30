@@ -1,6 +1,6 @@
 # 项目摘要 · FinCMini Agent（财小析）
 
-FINDDR 金融文本分析赛事 · 团体全球 **第 12 名**  
+FINDDR 金融文本分析赛事 · Test Set Rank **#12**  
 系统定位：**规则库 + LLM 辅助 + 人工 QA** 的财务年报结构化 Agent 工作流
 
 ## 任务

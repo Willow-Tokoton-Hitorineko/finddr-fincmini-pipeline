@@ -1,7 +1,7 @@
 # 个人贡献
 
 **DeepSeek Your Report** · FinCMini Agent · ACM ICAIF 2025 FinDDR  
-Test Set 第 **12** 名（121.92）· [榜单来源](competition-context.md#名次依据)
+Test Set Rank **#12**（121.92）· [榜单来源](competition-context.md#名次依据)
 
 ## 概述
 
